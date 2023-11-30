@@ -1,4 +1,4 @@
-# Roadmap-day3-task-RE
+# Roadmap-day3-task-JavaScript-Day3
 
 Dear Sir,
 
